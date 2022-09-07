@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AB InBev** as **Data Scientist**
 
-- 🌱 I’m currently learning **behavioural analytics and NLP.**
+- 🌱 I’m currently learning **behavioural analytics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/damicofj?tab=repositories&q=&type=public&language=&sort=](https://github.com/damicofj?tab=repositories&q=&type=public&language=&sort=)
 
