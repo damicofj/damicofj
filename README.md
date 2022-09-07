@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **projects**
+- 🔭 I’m currently working on **AB InBev** as **Data Scientist**
 
 - 🌱 I’m currently learning **behavioural analytics and NLP.**
 
