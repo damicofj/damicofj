@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Argentina</h3>
 
-- 🔭 I’m currently studying Computer Science in **University of London**
+- 🔭 I’m currently studying BSc of Computer Science in **University of London**
 
 - 🌱 I’m currently learning **behavioural analytics.**
 
